@@ -1,6 +1,8 @@
 # DataEncoders
 
 Este repositorio contiene el código creado por el grupo DataEncoders.
+El la creacion y manipulacion del modelo esta en esta direción.
+https://github.com/repositoriosHackaton/DataEncoders/tree/main/apiData/api
 
 ## Nombre del Proyecto
 
@@ -81,6 +83,7 @@ El sistema permite visualizar gráficas en la web usando localhost y clasificar 
 
 ![funcionamiento](https://github.com/user-attachments/assets/25a6dfa4-7a4e-416e-b406-c6e9aa3ef3a1)
 
+
 ## Estado del proyecto
 
 Aunque el proyecto funciona de manera satisfactoria localmente, enfrentamos desafíos significativos al intentar contener la aplicación en una imagen de Docker para lograr portabilidad entre diferentes entornos de ejecución. Además, algunas funcionalidades planificadas, como ciertas visualizaciones gráficas avanzadas, aún no se han implementado completamente debido a limitaciones de tiempo y recursos.
@@ -88,6 +91,11 @@ Aunque el proyecto funciona de manera satisfactoria localmente, enfrentamos desa
 ![image](https://github.com/user-attachments/assets/ee680024-d7b7-4f4c-873a-0f0fa661b25f)
 
 Más adelante en la noche se subirá un video a YouTube donde se mostrará cómo configurar todo y así poder correr el código. :3
+
+En caso de quere correr el codigo desde la CMD es posible, pero solo le generara los JSON y .CSV. 
+![image](https://github.com/user-attachments/assets/cf39ec90-c0cc-4443-89a4-eec72bc267e4)
+De esta manera podran ejecutar el codigo, claramente deberian tener todas las librerias que usamos o usar nuestro entorno. En este ultimo caso deberan tumbar el entorno virtual y volver a levantarlo con python 3.11.5 y todas las dependencias de requiemente.txt
+
 
 ## Agradecimientos
 
